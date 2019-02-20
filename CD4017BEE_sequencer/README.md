@@ -4,7 +4,7 @@ CD(Counter/Divider) 4017 BEE
 
 ![](https://github.com/L4COUR/Demystifying-DD-LAB-s-IC-s/blob/master/CD4017BEE_sequencer/CD4017BEE.jpg)
 
-### Pin 1-7 & pin 9-11:
+#### Pin 1-7 & pin 9-11:
 - Pin-1: It is the output 5. It goes high when the counter reads 5 counts.
 - Pin-2: It is the output 1. It goes high when the counter reads 0 counts.
 - Pin-3: It is the output 0. It goes high when the counter reads 0 counts.
@@ -17,9 +17,11 @@ CD(Counter/Divider) 4017 BEE
 - Pin-10: It is the output 4. It goes high when the counter reads 4 counts.
 - Pin-11: It is the output 9. It goes high when the counter reads 9 counts.
 </br></br>
+#### Pin 8 & 16:
 - Pin-8: GND (Ground)
 - Pin-16: Vdd (+5 volts)
 </br></br>
+#### Pin 12-15:
 - pin-12: CO (Cascade Out) 
   - This pin is used to cascade the CD4017BEE with other 4017 IC's enabling a larger count-nr. 
   ex. The current 4017 IC counter can only reach a maximum of 10 steps when all the pins are used, however cascading with yet another 4017 ICs could double the amount of steps in the sequence.
