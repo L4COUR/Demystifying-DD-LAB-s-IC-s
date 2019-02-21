@@ -22,7 +22,7 @@ CD(Counter/Divider) 4017 BEE
 - Pin-16: Vdd (+5 volts)
 </br></br>
 #### Pin 12-15:
-- pin-12: CO (Cascade Out) 
+- pin-12: CO (Carry Out) 
   - This pin is used to cascade the CD4017BEE with other 4017 IC's enabling a larger count-nr. 
   ex. The current 4017 IC counter can only reach a maximum of 10 steps when all the pins are used, however cascading with yet another 4017 ICs could double the amount of steps in the sequence.
 </br>  </br>
