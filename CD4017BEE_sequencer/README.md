@@ -67,6 +67,8 @@ While the above example is quite amusing, and LED's are a ton of fun, it is real
 
 There are a lot of ways this type of technology is used out in the world, for me personally I find myself using some form of sequencer almost daily when making electronic music. Here each step of the sequencer is programmable, so that you can add or subtract notes from a given sequence. This binary state can instead be a potentiometer that decides the pitch of the note on a step. maybe drawing inspiration from this one could create a new more complicated circuit that enables these audible features. In the end it's up to you, what do you want to make with this technology?
 
+![](https://media.sweetwater.com/api/i/q-82__ha-422c8cf6c045306c__hmac-1df2baf6e9ede3c6d387e65bfd3eb734a8919217/images/items/750/DFAM-large.jpg)
+
 ### sources:
 
 - [1] https://youtu.be/PVDnh9KYicA?t=831
