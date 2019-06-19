@@ -36,9 +36,32 @@ CD(Counter/Divider) 4017 BEE
   - This pin should normally be set to LOW in order for the counter to advance, given a HIGH voltage it will reset the counter back to 0.
 </br> </br>
 
+## Getting started with CD4017BEE
+
+### 1: testing if the chip is defekt
+
+- connect pin-16 to a positive voltage source, next, connect pin-8 to ground
+- use an LED (coupled with a resistor) to check if the chip works by connecting the LED to pin-3. if the LED lights up you are good to go, if it doesn't then you are probably using a defekt chip.
+
+[Insert picture of testing the chip]
+
+### 2: deciding what to build with the chip
+
+There is a lot of different projekt that could be build using this chip. for simplicity's sake I have chosen to build a very simple circuit that besides the chip consist of; 8 LED (+resistors), 1 button, and some wires.
+
+The idea is to build a ciruit, that at each button press advances the 8 step sequence, we will be using the same schematic from [1]. By building this you should get a pretty good idea of what this chip is all about.
+
+### 3: setting up the circuit
+
+[Insert fritzing Schematic]
+
+connect all the components acording to the schematic above, and make sure that everything is connected correctly. 
+
+
 
 ### sources:
-- https://youtu.be/PVDnh9KYicA?t=831
+
+- [1] https://youtu.be/PVDnh9KYicA?t=831
 - http://www.ti.com/lit/gpn/cd4017b
 - https://www.elprocus.com/ic-4017-pin-configuration-application/
 
