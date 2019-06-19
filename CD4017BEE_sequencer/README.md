@@ -61,10 +61,15 @@ connect all the components acording to the schematic above, and make sure that e
 
 ![](https://github.com/L4COUR/Demystifying-DD-LAB-s-IC-s/blob/master/CD4017BEE_sequencer/4017-circuit.gif)
 
+## Future projects with the CD4017BEE
+
+While the above example is quite amusing, and LED's are a ton of fun, it is really that exciting. However shedding some LED-emitted light on this IC, will hopefully inspire you to make something a lot more fun and interesting!
+
+There are a lot of ways this type of technology is used out in the world, for me personally I find myself using some form of sequencer almost daily when making electronic music. Here each step of the sequencer is programmable, so that you can add or subtract notes from a given sequence. This binary state can instead be a potentiometer that decides the pitch of the note on a step. maybe drawing inspiration from this one could create a new more complicated circuit that enables these audible features. In the end it's up to you, what do you want to make with this technology?
 
 ### sources:
 
 - [1] https://youtu.be/PVDnh9KYicA?t=831
-- http://www.ti.com/lit/gpn/cd4017b
-- https://www.elprocus.com/ic-4017-pin-configuration-application/
+- [2] http://www.ti.com/lit/gpn/cd4017b
+- [3] https://www.elprocus.com/ic-4017-pin-configuration-application/
 
