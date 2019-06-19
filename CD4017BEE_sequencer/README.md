@@ -43,7 +43,7 @@ CD(Counter/Divider) 4017 BEE
 - connect pin-16 to a positive voltage source, next, connect pin-8 to ground
 - use an LED (coupled with a resistor) to check if the chip works by connecting the LED to pin-3. if the LED lights up you are good to go, if it doesn't then you are probably using a defekt chip.
 
-[Insert picture of testing the chip]
+![Insert picture of testing the chip](https://github.com/L4COUR/Demystifying-DD-LAB-s-IC-s/blob/master/CD4017BEE_sequencer/20190619_202642.jpg)
 
 ### 2: deciding what to build with the chip
 
