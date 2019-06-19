@@ -53,7 +53,7 @@ The idea is to build a ciruit, that at each button press advances the 8 step seq
 
 ### 3: setting up the circuit
 
-[Insert fritzing Schematic]
+![Insert fritzing Schematic](https://github.com/L4COUR/Demystifying-DD-LAB-s-IC-s/blob/master/CD4017BEE_sequencer/CD4017BEE_circuit_tutorial.png)
 
 connect all the components acording to the schematic above, and make sure that everything is connected correctly. 
 
