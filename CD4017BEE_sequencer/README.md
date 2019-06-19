@@ -57,6 +57,9 @@ The idea is to build a ciruit, that at each button press advances the 8 step seq
 
 connect all the components acording to the schematic above, and make sure that everything is connected correctly. 
 
+### 4: See if it is working
+
+![](https://github.com/L4COUR/Demystifying-DD-LAB-s-IC-s/blob/master/CD4017BEE_sequencer/4017-circuit.gif)
 
 
 ### sources:
